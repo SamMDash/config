@@ -1,8 +1,8 @@
 {
 	"homePage": {
-		"header_text": "<b>WELCOME TO<br />UoG EMR & HOSPITAL SERVICE",
+		"header_text": "<b>WELCOME TO<br />University of Gondar EMR & Hospital Services</b>",
 		"logo": "/bahmni_config/openmrs/apps/home/logo.png",
-		"title_text": " "
+		"title_text": "University of Gondar EMR"
 	},
 	"loginPage": {
 		"logo": "/bahmni_config/openmrs/apps/home/logo.png",
