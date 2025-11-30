@@ -3,7 +3,7 @@
     "extensionPoints": [
         {
             "id": "org.bahmni.clinical.consultation.board",
-            "description": "Bahmni Clinical Consultation Page"
+            "description": "UoG EMR Clinical Consultation Page"
         },
         {
             "id": "org.bahmni.clinical.conceptSetGroup.*",
@@ -11,11 +11,11 @@
         },
         {
             "id": "org.bahmni.clinical.orders",
-            "description": "Bahmni Orders Page"
+            "description": "UoG EMR Orders Page"
         },
         {
             "id": "org.bahmni.patient.search",
-            "description": "Bahmni Patient search, lookups Page"
+            "description": "UoG EMR Patient search, lookups Page"
         }
     ],
     "contextModel": [

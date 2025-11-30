@@ -3,7 +3,7 @@
     "extensionPoints": [
         {
             "id": "org.bahmni.patient.search",
-            "description": "Bahmni patient search, lookup Page"
+            "description": "UoG EMR patient search, lookup Page"
         }
     ],
     "contextModel": [

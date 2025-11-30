@@ -1,10 +1,10 @@
 {
   "id": "bahmni.appointments",
-  "description": "Bahmni Appointments Scheduling App",
+  "description": "UoG EMR Appointments Scheduling App",
   "extensionPoints": [
     {
       "id": "org.bahmni.appointments",
-      "description": "Bahmni Admin Page"
+      "description": "UoG EMR Admin Page"
     }
   ],
   "config": {

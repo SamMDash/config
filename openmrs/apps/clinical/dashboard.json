@@ -85,7 +85,7 @@
                     "showDetailsButton":true
                 },
                 "prescriptionPrint":{
-                    "title": "Bahmni",
+                    "title": "UoG EMR",
                     "header": "Prescriptions",
                     "logo": "../images/bahmniLogo.png"
                 }
