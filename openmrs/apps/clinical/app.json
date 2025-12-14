@@ -3,7 +3,7 @@
     "extensionPoints": [
         {
             "id": "org.bahmni.clinical.consultation.board",
-            "description": "UoG EMR Clinical Consultation Page"
+            "description": "Bahmni Clinical Consultation Page"
         },
         {
             "id": "org.bahmni.clinical.conceptSetGroup.*",
@@ -11,11 +11,11 @@
         },
         {
             "id": "org.bahmni.clinical.orders",
-            "description": "UoG EMR Orders Page"
+            "description": "Bahmni Orders Page"
         },
         {
             "id": "org.bahmni.patient.search",
-            "description": "UoG EMR Patient search, lookups Page"
+            "description": "Bahmni Patient search, lookups Page"
         }
     ],
     "contextModel": [
@@ -23,7 +23,6 @@
         "visitUuid"
     ],
     "config": {
-        "hideFormName": true,
         "hideConditions": false,
         "enableRadiologyOrderOptions":["Urgent","NeedsPrint"],
         "enableLabOrderOptions":["Urgent", "NeedsPrint"],

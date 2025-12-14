@@ -3,7 +3,7 @@
         "extensionPoints": [
             {
                 "id": "org.bahmni.admin.dashboard",
-                "description": "UoG EMR Admin Page"
+                "description": "Bahmni Admin Page"
             }
         ]
 
