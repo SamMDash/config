@@ -1,11 +1,11 @@
 {
 	"homePage": {
-		"header_text": "<b>WELCOME TO<br />BAHMNI EMR & HOSPITAL SERVICE",
-		"logo": "/bahmni_config/openmrs/apps/home/logo.png",
+		"header_text": "<b>WELCOME TO<br />UoG EMR & HOSPITAL SERVICE",
+		"logo": "/bahmni_config/openmrs/apps/home/logo.webp",
 		"title_text": " "
 	},
 	"loginPage": {
-		"logo": "/bahmni_config/openmrs/apps/home/logo.png",
+		"logo": "/bahmni_config/openmrs/apps/home/teddy70th.webp",
 		"showHeaderText": true,
 		"showTitleText": false
 	},
